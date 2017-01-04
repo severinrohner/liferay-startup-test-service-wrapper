@@ -1,0 +1,3 @@
+Bundle-Name: com.clavisit.poc.startuptest.sevice.wrapper
+Bundle-SymbolicName: liferay-startup-test-service-wrapper
+Bundle-Version: 1.0.0
